@@ -5,7 +5,7 @@
 ## Инструкция по запуску
 
 1. Склонировать репозиторий с GitHub для запуска на локальном ПК:
-   git clone https://github.com/Dina1109/diplom.git
+   git clone https://github.com/MaryskaEvseeva/qadiplom.git
 
 2. Открыть папку diplom с помощью программы IntelliJ IDEA.
 
